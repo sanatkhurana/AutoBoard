@@ -13,7 +13,7 @@ allprojects {
 2. Add the dependency in your app's build.gradle file
 ```java
 dependencies {
-    compile 'com.github.sanatkhurana:AutoBoard:a379638096'
+   compile 'com.github.sanatkhurana:AutoBoard:1.0.0'
 }
   
 ```
